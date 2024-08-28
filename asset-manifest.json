@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.fa7d76ae.css",
-    "main.js": "/portfolio2/static/js/main.a0d6b626.js",
-    "static/js/787.512dd3f2.chunk.js": "/portfolio2/static/js/787.512dd3f2.chunk.js",
-    "index.html": "/portfolio2/index.html",
-    "main.fa7d76ae.css.map": "/portfolio2/static/css/main.fa7d76ae.css.map",
-    "main.a0d6b626.js.map": "/portfolio2/static/js/main.a0d6b626.js.map",
-    "787.512dd3f2.chunk.js.map": "/portfolio2/static/js/787.512dd3f2.chunk.js.map"
+    "main.css": "/korinikhil/portfolio2.git/static/css/main.fa7d76ae.css",
+    "main.js": "/korinikhil/portfolio2.git/static/js/main.392daeb3.js",
+    "static/js/787.512dd3f2.chunk.js": "/korinikhil/portfolio2.git/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/korinikhil/portfolio2.git/index.html",
+    "main.fa7d76ae.css.map": "/korinikhil/portfolio2.git/static/css/main.fa7d76ae.css.map",
+    "main.392daeb3.js.map": "/korinikhil/portfolio2.git/static/js/main.392daeb3.js.map",
+    "787.512dd3f2.chunk.js.map": "/korinikhil/portfolio2.git/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa7d76ae.css",
-    "static/js/main.a0d6b626.js"
+    "static/js/main.392daeb3.js"
   ]
 }
